@@ -1,5 +1,5 @@
-remote_theme: pages-themes/midnight
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-remote-theme
-title: 職務経歴書 | kedamammoth
-description: 職務経歴書
+title: 職務経歴書
+description: 職務経歴書 | kedamammoth
